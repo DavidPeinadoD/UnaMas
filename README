@@ -1,0 +1,13 @@
+DavidPeinadoD/UnaMas
+
+
+1.
+a)
+calcula una raíz de la función f(x) = x^2 - N
+si modificamos N haria lo mismo pero en otro intervalo diferente que no fuese [0,N]
+si cambiamos la funcion calcula una raiz de la nueva funcion en el mismo intervalo [0,N]
+
+2.
+a)
+muestra por pantalla todos los factores primos de x. Si x no es divisible por ningún número primo menor que 2, no se muestra nada.
+Un nombre más adecuado para la función f podría ser "factoresPrimos"
